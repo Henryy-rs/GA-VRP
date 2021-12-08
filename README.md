@@ -8,8 +8,8 @@ https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-s
 
 ## Pseudocode
 
-Steady State Genetic Algorithm for Capacitate Vehicle Routing Problem
-----------------------------------------------------------------------
+###Steady State Genetic Algorithm for Capacitate Vehicle Routing Problem
+
 1 initialize population<br>
 2 save initial cost of population<br>
 3   repeat utill convergence:<br>
