@@ -13,12 +13,12 @@ https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-s
  ```bash
 1 initialize population
 2 save initial cost of population
-3   repeat utill convergence:
+3   while not convergence:
 4   select two best chromosomes from population
 5   crossover chromosomes 
 6   mutate offsprings with a certain probability
 7   If offsprings are not same then 
-7     for each offsprings:<br>
+7     for each offsprings:
 8       If offspring has a lower cost than the worst chromosome) 
 9         then replace worst chromosome with offspring
 10  save cost for this iteration
