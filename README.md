@@ -3,5 +3,5 @@
 
 
 
-input data, ordered crossover, plotting route codes are borrowed from here. thanks.
+input data, ordered crossover, plotting route codes are borrowed from here. thanks for your work.
 https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#assumptions
