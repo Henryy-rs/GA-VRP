@@ -1,4 +1,4 @@
-# Steady State Genetic Algorithm for Capacitated Vechile Routing(for practice)
+# Steady State Genetic Algorithm with Capacitated Vechile Routing(for practice)
 
 Python implementation of capacitated vehicle routing problem with steady state genetic algorithm.
 
@@ -8,7 +8,7 @@ https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-s
 
 ## Pseudocode
 
-<b>Steady State Genetic Algorithm for Capacitate Vehicle Routing Problem</b>
+<b>Steady State Genetic Algorithm with Capacitate Vehicle Routing Problem</b>
 
  ```bash
 1 initialize population
