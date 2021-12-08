@@ -12,7 +12,7 @@ Steady State Genetic Algorithm for Capacitate Vehicle Routing Problem
 ----------------------------------------------------------------------
 1 initialize population<br>
 2 save initial cost of population<br>
-3 </t>repeat utill convergence:<br>
+3   repeat utill convergence:<br>
 4   select two best chromosomes from population<br>
 5   crossover chromosomes <br>
 6   mutate offsprings with a certain probability<br>
@@ -38,23 +38,23 @@ Steady State Genetic Algorithm for Capacitate Vehicle Routing Problem
 
 
 ## Reference
-input data, ordered crossover, plotting route codes are borrowed from here. thanks for your work.
+- input data, ordered crossover, plotting route codes are borrowed from here. thanks for your work.
 
 https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#assumptions
 
-capacitated vehicle routing problem
+- capacitated vehicle routing problem
 
 https://developers.google.com/optimization/routing/cvrp
 
-steady state GA
+- steady state GA
 
 https://arxiv.org/pdf/1911.00490.pdf
 
-ordered crossover
+- ordered crossover
 
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.1898&rep=rep1&type=pdf p3~4
 
-mutation
+- mutation
 
 https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_mutation.htm
 
