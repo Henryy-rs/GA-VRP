@@ -10,7 +10,7 @@ https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-s
 
 Steady State Genetic Algorithm for Capacitate Vehicle Routing Problem
 ----------------------------------------------------------------------
-1 initialize population
+1 initialize population<br>
 2 save initial cost of population
 3 repeat utill convergence:
 4   select two best chromosomes from population 
