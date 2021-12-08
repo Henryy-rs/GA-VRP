@@ -2,7 +2,8 @@
 
 Python implementation of capacitated vehicle routing problem with steady state genetic algorithm.
 
-See here for a detailed explanation
+See here for a detailed explanation.
+
 https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-statement
 
 ## Pseudocode
@@ -38,17 +39,22 @@ Steady State Genetic Algorithm for Capacitate Vehicle Routing Problem
 
 ## Reference
 input data, ordered crossover, plotting route codes are borrowed from here. thanks for your work.
+
 https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#assumptions
 
 capacitated vehicle routing problem
+
 https://developers.google.com/optimization/routing/cvrp
 
 steady state GA
+
 https://arxiv.org/pdf/1911.00490.pdf
 
 ordered crossover
+
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.1898&rep=rep1&type=pdf p3~4
 
 mutation
+
 https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_mutation.htm
 
