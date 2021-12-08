@@ -21,7 +21,7 @@ https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-s
 7     for each offsprings:
 8       If offspring has a lower cost than the worst chromosome) 
 9         then replace worst chromosome with offspring
-10  Save the cost of the current iteration
+10  Save cost of the current iteration
 
  ```
 
