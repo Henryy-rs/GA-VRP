@@ -211,7 +211,7 @@ if __name__ == '__main__':
 
     print(score, chromosome)
     subroutes = evaluate(chromosome, distance_matrix, demand, cap_vehicle, return_subroute=True)
-    title = "SSGA for CVRP, mute_prob={}".format(mutate_prob)
+    title = "SSGA with CVRP, mute_prob={}".format(mutate_prob)
     plot_route(subroutes, instance, title)
     plt.cla()
     plt.plot(score_history)
