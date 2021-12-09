@@ -17,7 +17,7 @@ https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-s
 4   select two best chromosomes from the population
 5   crossover chromosomes 
 6   mutate offsprings with a certain probability
-7   If offsprings are not same then 
+7   if offsprings are not same then 
 7     for each offsprings:
 8       if offspring has a lower cost than the worst chromosome) 
 9         then replace worst chromosome with offspring
