@@ -19,7 +19,7 @@ https://github.com/krishna-praveen/Capacitated-Vehicle-Routing-Problem#problem-s
 6   mutate offsprings with a certain probability
 7   If offsprings are not same then 
 7     for each offsprings:
-8       If offspring has a lower cost than the worst chromosome) 
+8       if offspring has a lower cost than the worst chromosome) 
 9         then replace worst chromosome with offspring
 10  Save cost of the current iteration
 
